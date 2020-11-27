@@ -1,5 +1,5 @@
-# LEDshelves
-Instructions to a customizable LED bookshelf
+# LED shelves
+Instructions to create a customizable LED bookshelf
 ![](ledbooksgelves.gif)
 ### Equipment
 * Arduino Uno
