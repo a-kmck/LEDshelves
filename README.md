@@ -8,4 +8,4 @@ Instructions to create a customizable LED bookshelf
 * Soldering iron
 * Wire strippers
 * Multimeter
-* [22 AWG wires] https://www.adafruit.com/product/1311
+* [22 AWG wires](https://www.adafruit.com/product/1311)
