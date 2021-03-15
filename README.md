@@ -49,5 +49,5 @@ Disclaimer: Be careful when handling electric components and ensure your power s
 
 ## other cool stuff
 
-![](blynkled.gif)
+![](blynkLed.gif)
 Control  LED strips or other IOT devices using your phone using the blynk app, [here](https://examples.blynk.cc/?board=Arduino%20Uno&shield=Serial%20or%20USB&example=Widgets%2FLED%2FLED_Color) is an example.
