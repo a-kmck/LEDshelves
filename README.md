@@ -4,7 +4,7 @@ Instructions to create a customizable LED bookshelf. I got asked how I did this 
 [This](https://www.youtube.com/watch?v=-vMah2H9-WQ&ab_channel=NadiaTokerud) cool youtube video is where I initially got the idea. It linked to [this](https://github.com/oyvindmb/bookworm/wiki) tutorial on github by the creator of the first video. 
 
 ![](ledbooksgelves.gif)
-### Equipment
+## Equipment
 * Arduino Uno
 * [RGB LED neopixel strips](https://www.adafruit.com/product/1376?length=1)
 * USB 2.0 Cable type A/B
@@ -16,7 +16,7 @@ Instructions to create a customizable LED bookshelf. I got asked how I did this 
 * Power supply
 * Desoldering pump
 
-### connecting everything together
+## Connecting everything together
 First you have to test your neopixel strip(s). To do this you need an arduino and the [arduino IDE](https://create.arduino.cc/projecthub/Arduino_Genuino/getting-started-with-arduino-web-editor-on-various-platforms-4b3e4a).  
 
 Once you have the IDE, you need to install the library that will allow you to control neopixels. To do this from the toolbar: 
@@ -46,6 +46,6 @@ Sometimes you can get a short where two pads that are next to each other are tou
 
 Disclaimer: Be careful when handling electric components and ensure your power supply can handle the LEDs if you have a lot of them. 
 
-### other cool stuff
+## other cool stuff
 
 Control  LED strips or other IOT devices using your phone using the blynk app, [here](https://examples.blynk.cc/?board=Arduino%20Uno&shield=Serial%20or%20USB&example=Widgets%2FLED%2FLED_Color) is an example.
