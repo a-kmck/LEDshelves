@@ -27,6 +27,7 @@ Tools> Manage Libraries > Type 'adafruit neopixel' in the search bar and install
 Where it says `#define pin 6` that is the corresponding pin on the arduino that your data wire will go into. Your ground wire will go into a `GND` slot, and your power wire will go into the `5V` slot. Once that's connected make sure your board is properly connected to the program, you can use a USB 2.0 Cable type A/B for this. 
 
 Ports > look for the right one
+
 Tools > board> Select Arduino Uno
 
 Now you can press 'verify' and 'upload' on the IDE, you should immediately see the LEDs light up.
