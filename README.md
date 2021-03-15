@@ -10,3 +10,4 @@ Instructions to create a customizable LED bookshelf
 * Wire strippers
 * Multimeter
 * [22 AWG wires](https://www.adafruit.com/product/1311)
+* hot glue gun
