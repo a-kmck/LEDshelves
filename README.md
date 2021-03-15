@@ -38,7 +38,7 @@ Now you can press 'verify' and 'upload' on the IDE, you should immediately see t
 
 ## Segmenting the strips
 This was the most time consuming part. You want to cut up your strips to lengthen the distance between neopixels. I used 3 neopixels per square. You can use scissors to cut through the middle of the pads.
-
+![alt text](segmentingPads.png)
 Then you have to reconnect them with your wires at your desired distance by [soldering](https://www.youtube.com/watch?t=107&v=EvRxQbhDxCo&feature=youtu.be&ab_channel=KamuiCosplay) and [desoldering](https://www.youtube.com/watch?v=N_dvf45hN6Y&ab_channel=AdafruitIndustries) using a desoldering pump when you make a mistake. '
 
 [Here](https://www.youtube.com/watch?v=U_b08YRcY4s&ab_channel=SuperBrightLEDs) is a good video about soldering LED strips, you can burn off a pad if you hold it under the heat for too long and then you cannot use it anymore but that doesn't happen too often. 
