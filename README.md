@@ -1,7 +1,7 @@
 # LED shelves
-Instructions to create a customizable LED bookshelf. I got asked how I did this when I posted it on twitter so I figured I would write out some instructions since I had to figure out a lot of this myself, maybe it will help someone.
+Instructions to create a customizable LED bookshelf. I figured I would write out some instructions since I had to figure out a lot of this myself, maybe it will help someone.
 
-[This](https://www.youtube.com/watch?v=-vMah2H9-WQ&ab_channel=NadiaTokerud) cool youtube video is where I initially got the idea. It linked to [this](https://github.com/oyvindmb/bookworm/wiki) tutorial on github by the creator of the first video. 
+[This](https://www.youtube.com/watch?v=-vMah2H9-WQ&ab_channel=NadiaTokerud) youtube video is where I initially got the idea. It linked to [this](https://github.com/oyvindmb/bookworm/wiki) tutorial on github by the creator of the first video. 
 
 ![](ledbooksgelves.gif)
 ## Equipment
